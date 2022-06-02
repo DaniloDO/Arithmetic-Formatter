@@ -26,7 +26,7 @@ Output:
 ----    ------    ------    -----
   40     -3800     19998      474
   
-##<b>Rules<b>
+##Rules
 The function will return the correct conversion if the supplied problems are properly formatted, otherwise, it will return a string that describes an error that is meaningful to the user.
 
 Situations that will return an error:
